@@ -1,2 +1,4 @@
-Show:On
-Text:"Reza"
+{
+  "Show": "On",
+  "Text": "Reza"
+}
