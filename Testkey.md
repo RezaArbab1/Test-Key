@@ -1,4 +1,4 @@
 {
-  "Show": "Off",
+  "Show": "On",
   "Text": "Aireza"
 }
